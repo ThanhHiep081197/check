@@ -1,13 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-alo alo
-=======
-thèn này sửa tiếp
-okay bạn
->>>>>>> 280e95049ef0b57c9037546f4a1f8386d52bcde4
-=======
+tao là hiep3 đây kkk
 
-thèn này sửa tiếp
-okay bạn
-
->>>>>>> 4359dd8d1f3872848c7dda29c6be63fc58445656
