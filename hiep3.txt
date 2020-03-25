@@ -1,10 +1,2 @@
 <<<<<<< HEAD
-tao là hiep3 đây kk hiep5 hiep2 merge hiep2
-=======
 
-thèn này sửa tiếp
-okay bạn
-
-hiep4 đang sửa nề
-
->>>>>>> 3cfdc695c2fb340a8f37c0305125916532b28428
