@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 alo alo
+=======
+thèn này sửa tiếp
+okay bạn
+>>>>>>> 280e95049ef0b57c9037546f4a1f8386d52bcde4
